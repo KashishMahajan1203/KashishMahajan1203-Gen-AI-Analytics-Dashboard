@@ -3,6 +3,10 @@
 ## Overview
 This project is a **React-based dashboard prototype** for a **Gen AI Analytics tool**, enabling users to input natural language queries and visualize results in a clean, modern UI. It includes features like AI-powered query suggestions, query history tracking, and data visualization using charts.
 
+## Live Demo 🚀
+Check out the live demo: [LIVE DEMO](https://gen-ai-dashboard.netlify.app/)
+
+
 ## Features
 - **Natural Language Query Input** with AI-powered suggestions
 - **Query Processing Simulation** (mock data handling)
